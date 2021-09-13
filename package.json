@@ -26,8 +26,8 @@
     "object-treeify": "^1.1.4",
     "password-prompt": "^1.1.2",
     "semver": "^5.6.0",
-    "string-width": "^3.1.0",
-    "strip-ansi": "^5.1.0",
+    "string-width": "^5.0.0",
+    "strip-ansi": "^7.0.0",
     "supports-color": "^5.5.0",
     "supports-hyperlinks": "^1.0.1",
     "tslib": "^1.9.3"
